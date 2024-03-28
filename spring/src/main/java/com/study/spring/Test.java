@@ -13,5 +13,8 @@ public class Test {
 
         dto.setAge(25);
         System.out.println(dto.getAge());
+
+        dto.setLocation("Seoul");
+        System.out.println(dto.getLocation());
     }
 }
