@@ -6,5 +6,9 @@ public class Test {
         dto.setName("ggg");
         dto.getName();
         System.out.println(dto.getName());
+
+        dto.setClassName("gg");
+        System.out.println(dto.getClassName());
+
     }
 }
