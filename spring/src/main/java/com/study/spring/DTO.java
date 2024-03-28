@@ -19,4 +19,7 @@ public class DTO {
                 ", age=" + age +
                 '}';
     }
+
+    private String location;
+
 }
