@@ -10,4 +10,5 @@ public class DTO {
     private String name;
     private String className;
     private int age;
+    private String location;
 }
