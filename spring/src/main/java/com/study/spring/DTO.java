@@ -8,6 +8,10 @@ import lombok.Setter;
 @Getter @Setter
 public class DTO {
     private String name;
+<<<<<<< HEAD
     private String className;
 
+=======
+    private int age;
+>>>>>>> main
 }
