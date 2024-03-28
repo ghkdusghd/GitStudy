@@ -10,4 +10,13 @@ public class DTO {
     private String name;
     private String className;
     private int age;
+
+    @Override
+    public String toString() {
+        return "DTO{" +
+                "name='" + name + '\'' +
+                ", className='" + className + '\'' +
+                ", age=" + age +
+                '}';
+    }
 }

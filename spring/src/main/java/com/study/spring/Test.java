@@ -13,5 +13,7 @@ public class Test {
 
         dto.setAge(25);
         System.out.println(dto.getAge());
+
+        System.out.println(dto.toString());;
     }
 }
